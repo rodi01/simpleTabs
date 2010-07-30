@@ -1,5 +1,5 @@
 /* --
-http://github.com/oncemade/Simple-Tabs
+http://github.com/oncemade/simpleTabs
 Simple Tabs for jQuery.
 Written by Rodrigo Soares (oncemade{at}gmail.com) Jul 2010.
 jQuery Plugin Framework by Keith Wood (http://keith-wood.name/pluginFramework.html)
